@@ -5,6 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ author: Greg Vaggalis
+ date: 1/24.2021
+ project: Froggy Book and Game
+*/
+
 namespace FroggyBookGame
 {
     class Program
