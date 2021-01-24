@@ -1,0 +1,9 @@
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.Properties.Resources.resources
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\bin\Debug\FroggyBookGame.exe.config
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\bin\Debug\FroggyBookGame.exe
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\bin\Debug\FroggyBookGame.pdb
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.exe
+C:\Users\gtvag\source\repos\FroggyBookGame\FroggyBookGame\obj\Debug\FroggyBookGame.pdb
