@@ -111,6 +111,7 @@ namespace FroggyBookGame
 
         public static void PrintRecipt(Customer c, double sub, double tax, double total)
         {
+           
             string a = "************************************************";
             Console.WriteLine(a);
             Console.WriteLine($"Thank you {c.Name} for shoppiung with us!");
@@ -119,7 +120,8 @@ namespace FroggyBookGame
             Console.Write("Qty\tItem\t\t\tPrice\tTotal\n");
             foreach(CartItem i in c.Cart)
             {
-                Console.WriteLine($"{i.Qty}\t{i.Name}\t{i.Price}\t{total:c}");
+                double invtotal = i.Price * i.Qty;
+                Console.WriteLine($"{i.Qty}\t{i.Name}\t{i.Price}\t{invtotal:c}");
             }
 
             Console.Write($"Sub total: {sub:c}\nTax: {tax:c}\nTotal: {total:c}\n");
